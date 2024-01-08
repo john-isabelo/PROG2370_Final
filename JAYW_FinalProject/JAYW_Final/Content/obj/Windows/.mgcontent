@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Beep.wav</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Button.png</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Font.spritefont</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Fruit.png</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Fruit2.png</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Instructions.png</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Manual.png</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Play.png</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/SBg.png</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/Score.png</File>
+    <File>D:/College/Level3/PROG2370/assignment/scrapFile/JAYW_Final/JAYW_Final/Content/snake.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
